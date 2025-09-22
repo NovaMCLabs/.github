@@ -1,14 +1,13 @@
-# 🌟 启明MC实验室 | Nova MC Labs
 
 <div align="center">
 
-![Stargazing Studio Logo](https://raw.githubusercontent.com/NovaMCLabs/.github/refs/heads/main/profile/NovaMCLogo.svg?token=GHSAT0AAAAAADHQ5SUCKDCYJN3ZZMRCCX242GQZFUA)
+![Nova MC Labs Logo](NovaMCLogo.svg)
 
-**✨ 专注于 Minecraft 插件开发的创新工作室 ✨**
+**✨ 专注于 Minecraft 插件开发的创新团队 (隶属于[Stargazing Studio-观星工作室](https://github.com/Stargazing-Studioj)) ✨**
 
-[![GitHub followers](https://img.shields.io/github/followers/Stargazing-Studio?style=social)](https://github.com/Stargazing-Studio)
-[![GitHub stars](https://img.shields.io/github/stars/Stargazing-Studio?style=social)](https://github.com/Stargazing-Studio)
-[![Website](https://img.shields.io/badge/Website-Coming%20Soon-blue?style=flat-square)](https://github.com/Stargazing-Studio)
+[![GitHub followers](https://img.shields.io/github/followers/NovaMCLabs?style=social)](https://github.com/NovaMCLabs)
+[![GitHub stars](https://img.shields.io/github/stars/NovaMCLabs?style=social)](https://github.com/NovaMCLabs)
+[![Website](https://img.shields.io/badge/Website-Coming%20Soon-blue?style=flat-square)](https://github.com/NovaMCLabs)
 
 </div>
 
@@ -16,7 +15,7 @@
 
 ## 🎯 关于我们 | About Us
 
-观星工作室是一个专注于 **Minecraft 服务器插件开发** 的技术团队。我们致力于为 Minecraft 社区提供高质量、创新性的插件解决方案，特别专注于 **跨平台兼容性** 和 **用户体验优化**。
+启明MC实验室是一个专注于 **Minecraft 服务器插件开发** 的技术团队。我们致力于为 Minecraft 社区提供高质量、创新性的插件解决方案，特别专注于 **跨平台兼容性** 和 **用户体验优化**。
 
 > 🌌 **我们的愿景**: 让每一个 Minecraft 服务器都能拥有更好的游戏体验
 
@@ -34,27 +33,12 @@
 
 <div align="center">
 
-### 🌐 TPUI - 基岩版传送 GUI 支持插件
-*为基岩版玩家提供友好的传送界面体验*
-
-[![GitHub](https://img.shields.io/badge/GitHub-TPUI-blue?style=flat-square&logo=github)](https://github.com/Stargazing-Studio/TPAUI)
-[![Java](https://img.shields.io/badge/Java-17+-orange?style=flat-square&logo=java)](https://github.com/Stargazing-Studio/TPAUI)
-[![License](https://img.shields.io/badge/License-GPL--3.0-green?style=flat-square)](https://github.com/Stargazing-Studio/TPAUI/blob/master/LICENSE)
-
-**核心特性:**
-- 📱 基岩版原生表单界面
-- 🌉 跨服传送请求支持  
-- ⚡ Redis 实时数据同步
-- 🔗 HuskHomes 等插件集成
-
----
-
 ### 📝 StarHitokoto - 一言插件
 *为服务器添加诗意的一言系统*
 
-[![GitHub](https://img.shields.io/badge/GitHub-StarHitokoto-blue?style=flat-square&logo=github)](https://github.com/Stargazing-Studio/StarHitokoto)
-[![Java](https://img.shields.io/badge/Java-21+-orange?style=flat-square&logo=java)](https://github.com/Stargazing-Studio/StarHitokoto)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/Stargazing-Studio/StarHitokoto/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-StarHitokoto-blue?style=flat-square&logo=github)](https://github.com/NovaMCLabs/StarHitokoto)
+[![Java](https://img.shields.io/badge/Java-21+-orange?style=flat-square&logo=java)](https://github.com/NovaMCLabs/StarHitokoto)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/NovaMCLabs/StarHitokoto/blob/main/LICENSE)
 
 **核心特性:**
 - 🎭 Hitokoto API 集成
@@ -67,8 +51,8 @@
 ### 🚀 StarTeleport - 高度传送插件
 *智能的高度检测传送系统*
 
-[![GitHub](https://img.shields.io/badge/GitHub-StarTeleport-blue?style=flat-square&logo=github)](https://github.com/Stargazing-Studio/StarTeleport)
-[![Java](https://img.shields.io/badge/Java-17+-orange?style=flat-square&logo=java)](https://github.com/Stargazing-Studio/StarTeleport)
+[![GitHub](https://img.shields.io/badge/GitHub-StarTeleport-blue?style=flat-square&logo=github)](https://github.com/NovaMCLabs/StarTeleport)
+[![Java](https://img.shields.io/badge/Java-17+-orange?style=flat-square&logo=java)](https://github.com/NovaMCLabs/StarTeleport)
 
 **核心特性:**
 - 🏔️ 智能高度检测
