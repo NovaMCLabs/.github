@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src=NovaMCLogo.svg">
+![Stargazing Studio Logo](ttps://raw.githubusercontent.com/NovaMCLabs/.github/refs/heads/main/profile/NovaMCLogo.svg?token=GHSAT0AAAAAADHQ5SUCKDCYJN3ZZMRCCX242GQZFUA)
 
 **✨ 专注于 Minecraft 插件开发的创新工作室 ✨**
 
